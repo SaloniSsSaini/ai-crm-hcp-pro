@@ -1,0 +1,30 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+
+# Database
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# Pydantic
+pydantic==2.7.1
+
+# AI / LLM
+groq==0.9.0
+
+# LangGraph + LangChain
+langgraph==0.2.4
+langchain==0.2.3
+langchain-core==0.2.10
+
+# HTTP requests
+httpx==0.27.0
+requests==2.32.3
+
+# File upload
+python-multipart==0.0.9
+
+# Audio / TTS (OpenAI)
+openai==1.35.10
+
+# Utils
+python-dotenv==1.0.1
